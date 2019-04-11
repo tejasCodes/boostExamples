@@ -191,3 +191,16 @@ Temporary Items
 /boostExamples/*.opendb
 /boostExamples/*.db
 /boostExamples/ipch/BOOSTEXAMPLES-7d23b7e7/BOOSTEXAMPLES-158be072.ipch
+/boostExamples/ipch/BOOSTEXAMPLES-7d23b7e7/BOOSTEXAMPLES-9553cd0.ipch
+/boostExamples/x64/Debug/boostExamples.ilk
+/boostExamples/x64/Debug/boostExamples.log
+/boostExamples/x64/Debug/boostExamples.pdb
+/boostExamples/x64/Debug/boostExamples.tlog/CL.command.1.tlog
+/boostExamples/x64/Debug/boostExamples.tlog/CL.read.1.tlog
+/boostExamples/x64/Debug/boostExamples.tlog/CL.write.1.tlog
+/boostExamples/x64/Debug/boostExamples.tlog/boostExamples.lastbuildstate
+/boostExamples/x64/Debug/boostExamples.tlog/link.command.1.tlog
+/boostExamples/x64/Debug/boostExamples.tlog/link.read.1.tlog
+/boostExamples/x64/Debug/boostExamples.tlog/link.write.1.tlog
+/boostExamples/x64/Debug/vc140.idb
+/boostExamples/x64/Debug/vc140.pdb

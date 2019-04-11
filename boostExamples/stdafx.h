@@ -10,6 +10,11 @@
 #include <stdio.h>
 #include <tchar.h>
 
-
+#define DBOUT( s )            \
+{                             \
+   std::ostringstream os_;    \
+   os_ << s;                   \
+   OutputDebugString( os_.str().c_str() );  \
+}
 
 // TODO: reference additional headers your program requires here

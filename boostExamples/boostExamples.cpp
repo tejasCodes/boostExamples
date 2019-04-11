@@ -3,9 +3,13 @@
 
 #include "stdafx.h"
 
+// project includes
+#include "Algorithm.h"
 
 int main()
 {
+
+    Algorithm::BoyerMooreSerach();
     return 0;
 }
 
